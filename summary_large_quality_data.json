@@ -1,0 +1,12 @@
+{
+    "folder": "large_quality_data",
+    "train": {
+        "num_samples": 11180,
+        "total_duration_hours": 28.185
+    },
+    "val": {
+        "num_samples": 2795,
+        "total_duration_hours": 6.937
+    },
+    "errors": 0
+}
