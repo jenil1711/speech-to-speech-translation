@@ -1,0 +1,46 @@
+{
+  "per_language": {
+    "hi": {
+      "corpus_bleu": 27.30393161370828,
+      "corpus_chrfpp": 53.117313127925506,
+      "samples": 494
+    },
+    "mr": {
+      "corpus_bleu": 10.577331409791432,
+      "corpus_chrfpp": 42.63309588984698,
+      "samples": 645
+    },
+    "ta": {
+      "corpus_bleu": 10.389484124576441,
+      "corpus_chrfpp": 49.309614684895415,
+      "samples": 622
+    },
+    "te": {
+      "corpus_bleu": 15.381906385161443,
+      "corpus_chrfpp": 51.38219782355712,
+      "samples": 556
+    },
+    "kn": {
+      "corpus_bleu": 11.00142327795095,
+      "corpus_chrfpp": 47.42486134136439,
+      "samples": 636
+    },
+    "bn": {
+      "corpus_bleu": 13.35015439040086,
+      "corpus_chrfpp": 45.93505086444974,
+      "samples": 646
+    },
+    "gu": {
+      "corpus_bleu": 16.10912167829484,
+      "corpus_chrfpp": 48.39178180228427,
+      "samples": 645
+    },
+    "ur": {
+      "corpus_bleu": 20.85661131691419,
+      "corpus_chrfpp": 46.15408852087118,
+      "samples": 428
+    }
+  },
+  "macro_bleu": 15.621245524599804,
+  "macro_chrfpp": 48.04350050689933
+}
